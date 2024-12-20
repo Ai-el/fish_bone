@@ -1,0 +1,8 @@
+/.vscode/c_cpp_properties.json
+/.vscode
+/build/fb_handware.o
+/build/fishBone_Struct.o
+/build/main.o
+/build/page_menu.o
+/build/page_test1.o
+/build/page_test2.o
